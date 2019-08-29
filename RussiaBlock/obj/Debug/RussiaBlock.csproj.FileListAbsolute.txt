@@ -1,0 +1,9 @@
+F:\c#期末作业\未成形\RussiaBlock\RussiaBlock\bin\Debug\RussiaBlock.exe.config
+F:\c#期末作业\未成形\RussiaBlock\RussiaBlock\bin\Debug\RussiaBlock.exe
+F:\c#期末作业\未成形\RussiaBlock\RussiaBlock\bin\Debug\RussiaBlock.pdb
+F:\c#期末作业\未成形\RussiaBlock\RussiaBlock\obj\Debug\RussiaBlock.csprojResolveAssemblyReference.cache
+F:\c#期末作业\未成形\RussiaBlock\RussiaBlock\obj\Debug\RussiaBlock.MainForm0.resources
+F:\c#期末作业\未成形\RussiaBlock\RussiaBlock\obj\Debug\RussiaBlock.Properties.Resources.resources
+F:\c#期末作业\未成形\RussiaBlock\RussiaBlock\obj\Debug\RussiaBlock.csproj.GenerateResource.Cache
+F:\c#期末作业\未成形\RussiaBlock\RussiaBlock\obj\Debug\RussiaBlock.exe
+F:\c#期末作业\未成形\RussiaBlock\RussiaBlock\obj\Debug\RussiaBlock.pdb
